@@ -1,16 +1,34 @@
-# calculator
+# Calculadora Dart + Flutter
+## 📷 Video do Projeto
 
-A new Flutter project.
+https://user-images.githubusercontent.com/70405308/226427900-d7fc20e8-18a8-42c9-afd6-547f43c6d228.mp4
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## 📝 Descrição do projeto
+Projeto de uma Calculadora completa. Layout inspirado em design do behance. Gerência de estado e mudança dinâmica de theme feito com Getx. Histórico de cálculos por meio de banco interno (SQFlite). Os cálculos foram feitos pela biblioteca function_tree que faz cálculos complexos por meio de string.
 
-A few resources to get you started if this is your first Flutter project:
+## 💻 Features do projeto
+* Gerência de estado, Getx
+* Mudança dinâmica de tema claro/escuro, Getx
+* Layout Minimalista e intuitivo
+* Histórico de cálculos
+* Cálculos complexos, function_tree
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Tecnologias e ferramentas utilizadas
+* Dart
+* Flutter
+* LIB: get (gerência de estado e mudança de tema)
+* LIB: function_tree (parse string cálculos)
+* LIB: sqflite (banco de dados local)
+* LIB: path (caminho banco de dados local)
+* LIB: intl (máscara de data)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📌 Links
+* [get](https://pub.dev/packages/get)
+* [function_tree](https://pub.dev/packages/function_tree)
+* [sqflite](https://pub.dev/packages/sqflite)
+* [path](https://pub.dev/packages/path)
+* [intl](https://pub.dev/packages/intl)
+
+## 📊 Status do projeto
+✅ Concluído
