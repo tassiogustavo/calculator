@@ -5,7 +5,7 @@ https://user-images.githubusercontent.com/70405308/226427900-d7fc20e8-18a8-42c9-
 
 
 ## 📝 Descrição do projeto
-Projeto de uma Calculadora completa. Layout inspirado em design do behance. Gerência de estado e mudança dinâmica de theme feito com Getx. Histórico de cálculos por meio de banco interno (SQFlite). Os cálculos foram feitos pela biblioteca function_tree que faz cálculos complexos por meio de string.
+Projeto de uma Calculadora completa. Layout inspirado em design do dribbble. Gerência de estado e mudança dinâmica de theme feito com Getx. Histórico de cálculos por meio de banco interno (SQFlite). Os cálculos foram feitos pela biblioteca function_tree que faz cálculos complexos por meio de string.
 
 ## 💻 Features do projeto
 * Gerência de estado, Getx
